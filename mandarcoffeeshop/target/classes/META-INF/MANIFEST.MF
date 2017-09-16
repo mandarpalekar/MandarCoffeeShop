@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: mandarcoffeeshop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mandar.springboot
+Build-Jdk: 1.7.0_76
+Built-By: Mandar
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/mandarcoffee
+ shop/
+
